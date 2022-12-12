@@ -1,4 +1,3 @@
-# thesis-projects
 # Thesis projects
 
 **Bachelor's thesis project**: Sistema de posicionamiento indoor para el guiado de robots móviles implementado en Robot Operating System (ROS)
